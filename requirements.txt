@@ -1,0 +1,11 @@
+fastapi==0.110.1
+uvicorn==0.25.0
+python-dotenv>=1.0.1
+pymongo==4.5.0
+pydantic>=2.6.4
+motor==3.3.1
+beautifulsoup4
+yt-dlp
+lxml
+aiohttp
+emergentintegrations==0.1.0
